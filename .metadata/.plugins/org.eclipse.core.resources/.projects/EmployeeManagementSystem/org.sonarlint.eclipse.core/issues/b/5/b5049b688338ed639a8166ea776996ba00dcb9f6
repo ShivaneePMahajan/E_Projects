@@ -1,0 +1,9 @@
+
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÌÓşÿÿÿÿHRMINORZ
+CODE_SMELL
+“
+java:S1488B"aImmediately return this expression instead of assigning it to the temporary variable "annualSal".(–­—±8ä¬ÁÜĞ0HRMINORZ
+CODE_SMELL
+Œ
+java:S1488H"ZImmediately return this expression instead of assigning it to the temporary variable "pf".(ùÕ–º8ä¬ÁÜĞ0HRMINORZ
+CODE_SMELL
