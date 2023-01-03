@@ -1,126 +1,126 @@
 
-‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÌÓşÿÿÿÿHRMINORZ
+q	java:S106Å"9Replace this use of System.out or System.err by a logger.(–„Ú¼ÿÿÿÿÿ8ºÜÄÜĞ0HéRMAJORZ
 CODE_SMELL
-a
-java:S3740"/Provide the parametrized type for this generic.(Ìóµø8ºÜÄÜĞ0HRMAJORZ
+k	java:S106S"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HêRMAJORZ
 CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(ò¡˜Šüÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+k	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HëRMAJORZ
 CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.( —×àùÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+\
+java:S1659œ"#Declare "index" on a separate line.(ÌåîØÿÿÿÿÿ8ºÜÄÜĞ0HìRMINORZ
 CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(»À—Ó8ºÜÄÜĞ0HRMAJORZ
+k	java:S106"9Replace this use of System.out or System.err by a logger.(»À—Ó8ºÜÄÜĞ0HîRMAJORZ
 CODE_SMELL
-i	java:S106"9Replace this use of System.out or System.err by a logger.(éÿÔI8ºÜÄÜĞ0HRMAJORZ
+l	java:S106Ê"9Replace this use of System.out or System.err by a logger.(çŒ¤8ºÜÄÜĞ0HïRMAJORZ
 CODE_SMELL
-o	java:S106 "9Replace this use of System.out or System.err by a logger.(Ü÷Í¸ûÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+b
+java:S3740"/Provide the parametrized type for this generic.(Ìóµø8ºÜÄÜĞ0HğRMAJORZ
 CODE_SMELL
-j	java:S106)"9Replace this use of System.out or System.err by a logger.(•Êıß8ºÜÄÜĞ0HRMAJORZ
+l	java:S106ú"9Replace this use of System.out or System.err by a logger.(¯§‘8ºÜÄÜĞ0HñRMAJORZ
 CODE_SMELL
-j	java:S106,"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
+p	java:S106A"9Replace this use of System.out or System.err by a logger.( —×àùÿÿÿÿ8ºÜÄÜĞ0HòRMAJORZ
 CODE_SMELL
-o	java:S1063"9Replace this use of System.out or System.err by a logger.(Åá¦¿üÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+l	java:S106¬"9Replace this use of System.out or System.err by a logger.(è §À8ºÜÄÜĞ0HóRMAJORZ
 CODE_SMELL
-o	java:S106:"9Replace this use of System.out or System.err by a logger.(ä¤€­şÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(ä¤€­şÿÿÿÿ8ºÜÄÜĞ0HôRMAJORZ
 CODE_SMELL
-j	java:S106;"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
+p	java:S106R"9Replace this use of System.out or System.err by a logger.(Û±­óüÿÿÿÿ8ºÜÄÜĞ0HõRMAJORZ
 CODE_SMELL
-o	java:S106A"9Replace this use of System.out or System.err by a logger.( —×àùÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+k	java:S106b"9Replace this use of System.out or System.err by a logger.(ş“Î­8ºÜÄÜĞ0HöRMAJORZ
 CODE_SMELL
-j	java:S106D"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ò¡˜Šüÿÿÿÿ8ºÜÄÜĞ0H÷RMAJORZ
 CODE_SMELL
-j	java:S106K"9Replace this use of System.out or System.err by a logger.(ŸßÊë8ºÜÄÜĞ0HRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ä¤€­şÿÿÿÿ8ºÜÄÜĞ0HøRMAJORZ
 CODE_SMELL
-o	java:S106R"9Replace this use of System.out or System.err by a logger.(Û±­óüÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+l	java:S106Ô"9Replace this use of System.out or System.err by a logger.(£×ñÿ8ºÜÄÜĞ0HùRMAJORZ
 CODE_SMELL
-j	java:S106S"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(•Êıß8ºÜÄÜĞ0HúRMAJORZ
 CODE_SMELL
-j	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
+l	java:S106ö"9Replace this use of System.out or System.err by a logger.(¥€Œı8ºÜÄÜĞ0HûRMAJORZ
 CODE_SMELL
-o	java:S106]"9Replace this use of System.out or System.err by a logger.(çƒ¹üÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
+q	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ8ºÜÄÜĞ0HüRMAJORZ
 CODE_SMELL
-j	java:S106b"9Replace this use of System.out or System.err by a logger.(ş“Î­8ºÜÄÜĞ0HRMAJORZ
+q	java:S106º"9Replace this use of System.out or System.err by a logger.(õáêïúÿÿÿÿ8ºÜÄÜĞ0HıRMAJORZ
 CODE_SMELL
-j	java:S106g"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÌÓşÿÿÿÿHşRMINORZ
 CODE_SMELL
-T
-java:S1659o""Declare "flag" on a separate line.(±şåÊ8ºÜÄÜĞ0H RMINORZ
+‹
+java:S11925"PDefine a constant instead of duplicating this literal "\t Pf amount : " 3 times.(¢àüÿşÿÿÿÿ8ºÜÄÜĞ0HÿRCRITICALZ
 CODE_SMELL
-j	java:S106m"9Replace this use of System.out or System.err by a logger.(•Êıß8ºÜÄÜĞ0H"RMAJORZ
+U
+java:S1659o""Declare "flag" on a separate line.(±şåÊ8ºÜÄÜĞ0HƒRMINORZ
 CODE_SMELL
-o	java:S106w"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8ºÜÄÜĞ0H#RMAJORZ
+p	java:S106]"9Replace this use of System.out or System.err by a logger.(çƒ¹üÿÿÿÿ8ºÜÄÜĞ0H…RMAJORZ
 CODE_SMELL
-j	java:S106{"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H$RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.( —×àùÿÿÿÿ8ºÜÄÜĞ0H†RMAJORZ
 CODE_SMELL
-o	java:S106"9Replace this use of System.out or System.err by a logger.(ä¤€­şÿÿÿÿ8ºÜÄÜĞ0H%RMAJORZ
+p	java:S106w"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8ºÜÄÜĞ0H‡RMAJORZ
 CODE_SMELL
-p	java:S106‚"9Replace this use of System.out or System.err by a logger.(ï¢Ùşÿÿÿÿ8ºÜÄÜĞ0H&RMAJORZ
+q	java:S106®"9Replace this use of System.out or System.err by a logger.(®Ú««şÿÿÿÿ8ºÜÄÜĞ0HˆRMAJORZ
 CODE_SMELL
-k	java:S106…"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H'RMAJORZ
+q	java:S106Ó"9Replace this use of System.out or System.err by a logger.(·åËûÿÿÿÿ8ºÜÄÜĞ0H‰RMAJORZ
 CODE_SMELL
-k	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H(RMAJORZ
+k	java:S106{"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HŠRMAJORZ
 CODE_SMELL
-j	java:S106"9Replace this use of System.out or System.err by a logger.(û˜Èt8ºÜÄÜĞ0H)RMAJORZ
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(Åá¦¿üÿÿÿÿ8ºÜÄÜĞ0H‹RMAJORZ
 CODE_SMELL
-k	java:S106’"9Replace this use of System.out or System.err by a logger.(‹‚ìÌ8ºÜÄÜĞ0H*RMAJORZ
+l	java:S106¼"9Replace this use of System.out or System.err by a logger.(Ü¤ü8ºÜÄÜĞ0HŒRMAJORZ
 CODE_SMELL
-k	java:S106”"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H+RMAJORZ
+l	java:S106…"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
 CODE_SMELL
-[
-java:S1659œ"#Declare "index" on a separate line.(ÌåîØÿÿÿÿÿ8ºÜÄÜĞ0H,RMINORZ
+l	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0HRMAJORZ
 CODE_SMELL
-k	java:S106š"9Replace this use of System.out or System.err by a logger.(•Êıß8ºÜÄÜĞ0H.RMAJORZ
+q	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ËªŒÿøÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
 CODE_SMELL
-p	java:S106¨"9Replace this use of System.out or System.err by a logger.( —×àùÿÿÿÿ8ºÜÄÜĞ0H/RMAJORZ
+q	java:S106ó"9Replace this use of System.out or System.err by a logger.(¤ÌÊ«şÿÿÿÿ8ºÜÄÜĞ0HRMAJORZ
 CODE_SMELL
-k	java:S106ª"9Replace this use of System.out or System.err by a logger.(»À—Ó8ºÜÄÜĞ0H0RMAJORZ
+l	java:S106š"9Replace this use of System.out or System.err by a logger.(•Êıß8ºÜÄÜĞ0H‘RMAJORZ
 CODE_SMELL
-k	java:S106¬"9Replace this use of System.out or System.err by a logger.(è §À8ºÜÄÜĞ0H1RMAJORZ
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H’RMAJORZ
 CODE_SMELL
-p	java:S106®"9Replace this use of System.out or System.err by a logger.(®Ú««şÿÿÿÿ8ºÜÄÜĞ0H2RMAJORZ
+w
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(úóøÿÿÿÿ8ºÜÄÜĞ0H“RMINORZ
 CODE_SMELL
-k	java:S106·"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H3RMAJORZ
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H–RMAJORZ
 CODE_SMELL
-p	java:S106º"9Replace this use of System.out or System.err by a logger.(õáêïúÿÿÿÿ8ºÜÄÜĞ0H4RMAJORZ
+l	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H—RMAJORZ
 CODE_SMELL
-k	java:S106¼"9Replace this use of System.out or System.err by a logger.(Ü¤ü8ºÜÄÜĞ0H5RMAJORZ
+l	java:S106ª"9Replace this use of System.out or System.err by a logger.(»À—Ó8ºÜÄÜĞ0H˜RMAJORZ
 CODE_SMELL
-k	java:S106¾"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H6RMAJORZ
+q	java:S106¨"9Replace this use of System.out or System.err by a logger.( —×àùÿÿÿÿ8ºÜÄÜĞ0H™RMAJORZ
 CODE_SMELL
-p	java:S106Å"9Replace this use of System.out or System.err by a logger.(–„Ú¼ÿÿÿÿÿ8ºÜÄÜĞ0H7RMAJORZ
+l	java:S106Ú"9Replace this use of System.out or System.err by a logger.(—ÎÔ8ºÜÄÜĞ0HšRMAJORZ
 CODE_SMELL
-p	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ8ºÜÄÜĞ0H8RMAJORZ
+l	java:S106¾"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H›RMAJORZ
 CODE_SMELL
-k	java:S106Ê"9Replace this use of System.out or System.err by a logger.(çŒ¤8ºÜÄÜĞ0H9RMAJORZ
+‚
+java:S1192-"ÆDefine a constant instead of duplicating this literal "=====================================================================================================================================" 5 times.(Üñ£Âøÿÿÿÿ8ºÜÄÜĞ0HœRCRITICALZ
 CODE_SMELL
-p	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ËªŒÿøÿÿÿÿ8ºÜÄÜĞ0H:RMAJORZ
+k	java:S106K"9Replace this use of System.out or System.err by a logger.(ŸßÊë8ºÜÄÜĞ0H¢RMAJORZ
 CODE_SMELL
-k	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H;RMAJORZ
+j	java:S106"9Replace this use of System.out or System.err by a logger.(éÿÔI8ºÜÄÜĞ0H£RMAJORZ
 CODE_SMELL
-p	java:S106Ó"9Replace this use of System.out or System.err by a logger.(·åËûÿÿÿÿ8ºÜÄÜĞ0H<RMAJORZ
+l	java:S106ï"9Replace this use of System.out or System.err by a logger.(¥Ù·8ºÜÄÜĞ0H¤RMAJORZ
 CODE_SMELL
-k	java:S106Ô"9Replace this use of System.out or System.err by a logger.(£×ñÿ8ºÜÄÜĞ0H=RMAJORZ
+k	java:S106m"9Replace this use of System.out or System.err by a logger.(•Êıß8ºÜÄÜĞ0H¥RMAJORZ
 CODE_SMELL
-k	java:S106Ú"9Replace this use of System.out or System.err by a logger.(—ÎÔ8ºÜÄÜĞ0H>RMAJORZ
+k	java:S106g"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H¦RMAJORZ
 CODE_SMELL
-k	java:S106ï"9Replace this use of System.out or System.err by a logger.(¥Ù·8ºÜÄÜĞ0H?RMAJORZ
+l	java:S106·"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H§RMAJORZ
 CODE_SMELL
-p	java:S106ó"9Replace this use of System.out or System.err by a logger.(¤ÌÊ«şÿÿÿÿ8ºÜÄÜĞ0H@RMAJORZ
-CODE_SMELL
-k	java:S106ö"9Replace this use of System.out or System.err by a logger.(¥€Œı8ºÜÄÜĞ0HARMAJORZ
-CODE_SMELL
-k	java:S106ø"9Replace this use of System.out or System.err by a logger.(¿§™å8ºÜÄÜĞ0HBRMAJORZ
-CODE_SMELL
-k	java:S106ú"9Replace this use of System.out or System.err by a logger.(¯§‘8ºÜÄÜĞ0HCRMAJORZ
-CODE_SMELL
-
-java:S1192-"ÆDefine a constant instead of duplicating this literal "=====================================================================================================================================" 5 times.(Üñ£Âøÿÿÿÿ8ºÜÄÜĞ0HDRCRITICALZ
-CODE_SMELL
-Š
-java:S11925"PDefine a constant instead of duplicating this literal "\t Pf amount : " 3 times.(¢àüÿşÿÿÿÿ8ºÜÄÜĞ0HJRCRITICALZ
-CODE_SMELL
-u
-java:S1155\">Use isEmpty() to check whether the collection is empty or not.(şªß†üÿÿÿÿ8ºÜÄÜĞ0HNRMINORZ
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H¨RMAJORZ
 CODE_SMELL
 v
-java:S1155">Use isEmpty() to check whether the collection is empty or not.(úóøÿÿÿÿ8ºÜÄÜĞ0HPRMINORZ
+java:S1155\">Use isEmpty() to check whether the collection is empty or not.(şªß†üÿÿÿÿ8ºÜÄÜĞ0H©RMINORZ
+CODE_SMELL
+l	java:S106’"9Replace this use of System.out or System.err by a logger.(‹‚ìÌ8ºÜÄÜĞ0H«RMAJORZ
+CODE_SMELL
+q	java:S106‚"9Replace this use of System.out or System.err by a logger.(ï¢Ùşÿÿÿÿ8ºÜÄÜĞ0H¬RMAJORZ
+CODE_SMELL
+l	java:S106ø"9Replace this use of System.out or System.err by a logger.(¿§™å8ºÜÄÜĞ0H­RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(û˜Èt8ºÜÄÜĞ0H®RMAJORZ
+CODE_SMELL
+l	java:S106”"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ºÜÄÜĞ0H¯RMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(Ü÷Í¸ûÿÿÿÿ8ºÜÄÜĞ0H°RMAJORZ
 CODE_SMELL

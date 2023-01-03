@@ -1,0 +1,11 @@
+select*from EmpTable;
+
+create table EmpTable(empId int(10) primary key not null,empName varchar(30),empAddress varchar(50),empContactNo long,salary double(15,2));
+
+insert into EmpTable values(101,'shivanee','Burhanpur',9009680355,40000);
+insert into EmpTable values(102,'shiva','dehli',9004658035,46000);
+insert into EmpTable values(103,'sonali','Burhanpur',8779680355,35000);
+insert into EmpTable values(104,'monali','SaraswatiN',7894563101,35000);
+insert into EmpTable values(105,'shivanee','Burhanpur',9009680355,40000);
+
+desc EmpTable;
