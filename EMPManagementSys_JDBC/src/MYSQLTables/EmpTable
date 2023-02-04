@@ -1,0 +1,21 @@
+mysql> desc EmpTable;
++--------------+--------------+------+-----+---------+-------+
+| Field        | Type         | Null | Key | Default | Extra |
++--------------+--------------+------+-----+---------+-------+
+| empId        | int          | NO   | PRI | NULL    |       |
+| empName      | varchar(30)  | YES  |     | NULL    |       |
+| empAddress   | varchar(50)  | YES  |     | NULL    |       |
+| empContactNo | mediumtext   | YES  |     | NULL    |       |
+| salary       | double(15,2) | YES  |     | NULL    |       |
++--------------+--------------+------+-----+---------+-------+
+
+mysql> select * from EmpTable;
++-------+----------+------------+--------------+----------+
+| empId | empName  | empAddress | empContactNo | salary   |
++-------+----------+------------+--------------+----------+
+|   101 | shivanee | Burhanpur  | 9009680355   | 40000.00 |
+|   102 | shiva    | dehli      | 9004658035   | 46000.00 |
+|   103 | sonali   | Burhanpur  | 8779680355   | 35000.00 |
+|   104 | monali   | SaraswatiN | 7894563101   | 35000.00 |
+|   105 | shivanee | Burhanpur  | 9009680355   | 40000.00 |
++-------+----------+------------+--------------+----------+
